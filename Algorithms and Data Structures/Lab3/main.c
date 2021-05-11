@@ -53,7 +53,7 @@ void drawNodes(int dx, int dy, int dtx, int nx[], int ny[], HDC hdc, HPEN pen, i
 
 void paintLine(int matrix[n][n], HDC hdc, int dx, int dy, int nx[], int ny[], int draw_arrows) {
     int  radius = 16, divine = 1, xDif, yDif;
-    float koef = 1.0 - 0 * 0.02 - 3 * 0.005 - 0.25;
+    float koef = 1.0 - 2 * 0.02 - 6 * 0.005 - 0.25;
     for (int start = 0; start < n; start++) {
         for (int end = 0; end < n; end++) {
             if (matrix[start][end] == 1) {
