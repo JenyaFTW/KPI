@@ -1,0 +1,24 @@
+﻿  Lab6.c
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(109,34): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(110,34): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(125,35): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(139,73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(212,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(213,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(256,37): warning C4047: 'function': 'int *(*)[12]' differs in levels of indirection from 'int [12][12]'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(256,36): warning C4024: 'generateRandomMatrix': different types for formal and actual parameter 2
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(256,74): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(257,39): warning C4047: 'function': 'int *(*)[12]' differs in levels of indirection from 'int [12][12]'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(257,38): warning C4024: 'generateSymmetricalMatrix': different types for formal and actual parameter 2
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(258,31): warning C4047: 'function': 'int *(*)[12]' differs in levels of indirection from 'int [12][12]'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(258,30): warning C4024: 'weightMatrix': different types for formal and actual parameter 3
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(248,68): warning C4101: 'yDif': unreferenced local variable
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(248,84): warning C4101: 'dy': unreferenced local variable
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(248,74): warning C4101: 'koef': unreferenced local variable
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(248,62): warning C4101: 'xDif': unreferenced local variable
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(248,80): warning C4101: 'dx': unreferenced local variable
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(295,31): warning C4133: '=': incompatible types - from 'wchar_t *' to 'LPCSTR'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(301,35): warning C4047: '=': 'HBRUSH' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(319,1): warning C4133: 'function': incompatible types - from 'wchar_t [25]' to 'LPCSTR'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Lab6.c(319,1): warning C4133: 'function': incompatible types - from 'unsigned short [25]' to 'LPCSTR'
+  Lab6.vcxproj -> C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab6\Debug\Lab6.exe
