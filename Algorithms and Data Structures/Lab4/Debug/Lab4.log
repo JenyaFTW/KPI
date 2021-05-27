@@ -1,0 +1,30 @@
+﻿  Lab4.c
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(19,31): warning C4133: '=': incompatible types - from 'wchar_t *' to 'LPCSTR'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(25,35): warning C4047: '=': 'HBRUSH' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(43,1): warning C4133: 'function': incompatible types - from 'wchar_t [25]' to 'LPCSTR'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(43,1): warning C4133: 'function': incompatible types - from 'unsigned short [25]' to 'LPCSTR'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(80,28): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(81,28): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(96,35): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(164,80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(146,31): warning C4101: 'end': unreferenced local variable
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(332,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(333,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(334,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(354,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(355,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(359,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(360,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(398,58): warning C4047: 'function': 'LPCSTR' differs in levels of indirection from 'int'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(398,55): warning C4024: 'TextOutA': different types for formal and actual parameter 4
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(409,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(410,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(457,31): warning C4047: 'function': 'int *(*)[12]' differs in levels of indirection from 'int [12][12]'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(457,30): warning C4024: 'generateRandomMatrix': different types for formal and actual parameter 1
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(457,66): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(458,39): warning C4047: 'function': 'int *(*)[12]' differs in levels of indirection from 'int [12][12]'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(458,38): warning C4024: 'generateSymmetricalMatrix': different types for formal and actual parameter 2
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(464,59): warning C4047: 'function': 'int *' differs in levels of indirection from 'char *[12]'
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(464,48): warning C4024: 'drawGraphNormal': different types for formal and actual parameter 6
+C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Lab4.c(428,15): warning C4101: 'koef': unreferenced local variable
+  Lab4.vcxproj -> C:\Users\Y Yakov\Documents\KPI\Algorithms and Data Structures\Lab4\Debug\Lab4.exe
